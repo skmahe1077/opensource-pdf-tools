@@ -25,7 +25,7 @@ An all-in-one PDF toolkit that runs entirely in the browser. No server, no uploa
 
 - **React 18** - UI components
 - **Vite 5** - Build tool and dev server
-- **Tailwind CSS 3** — Utility-first styling
+- **Tailwind CSS 3** - Utility-first styling
 - **pdf-lib** - PDF manipulation (merge, split, rotate, edit, sign, compress)
 - **pdfjs-dist** - PDF rendering and text extraction
 - **mammoth** - DOCX to text conversion
