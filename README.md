@@ -23,15 +23,15 @@ An all-in-one PDF toolkit that runs entirely in the browser. No server, no uploa
 
 ## Tech Stack
 
-- **React 18** — UI components
-- **Vite 5** — Build tool and dev server
+- **React 18** - UI components
+- **Vite 5** - Build tool and dev server
 - **Tailwind CSS 3** — Utility-first styling
-- **pdf-lib** — PDF manipulation (merge, split, rotate, edit, sign, compress)
-- **pdfjs-dist** — PDF rendering and text extraction
-- **mammoth** — DOCX to text conversion
-- **react-dropzone** — Drag-and-drop file upload
-- **lucide-react** — Icons
-- **file-saver / jszip** — File downloads and zip bundling
+- **pdf-lib** - PDF manipulation (merge, split, rotate, edit, sign, compress)
+- **pdfjs-dist** - PDF rendering and text extraction
+- **mammoth** - DOCX to text conversion
+- **react-dropzone** - Drag-and-drop file upload
+- **lucide-react** - Icons
+- **file-saver / jszip** - File downloads and zip bundling
 
 ## Getting Started
 
@@ -44,8 +44,8 @@ An all-in-one PDF toolkit that runs entirely in the browser. No server, no uploa
 #### Using Docker Compose
 
 ```bash
-git clone <your-repo-url>
-cd pdftool
+git clone https://github.com/skmahe1077/opensource-pdf-tools
+cd opensource-pdf-tools
 docker compose up -d
 ```
 
@@ -60,8 +60,8 @@ docker compose down
 #### Using Docker directly
 
 ```bash
-git clone <your-repo-url>
-cd pdftool
+git clone https://github.com/skmahe1077/opensource-pdf-tools
+cd opensource-pdf-tools
 docker build -t opensource-pdf-tools .
 docker run -d -p 9090:80 --name opensource-pdf-tools opensource-pdf-tools
 ```
@@ -86,8 +86,8 @@ docker stop opensource-pdf-tools && docker rm opensource-pdf-tools
 #### Installation
 
 ```bash
-git clone <your-repo-url>
-cd pdftool
+git clone https://github.com/skmahe1077/opensource-pdf-tools
+cd opensource-pdf-tools
 npm install
 ```
 
