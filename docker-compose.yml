@@ -1,0 +1,7 @@
+services:
+  opensource-pdf-tools:
+    build: .
+    container_name: opensource-pdf-tools
+    ports:
+      - "9090:80"
+    restart: unless-stopped
