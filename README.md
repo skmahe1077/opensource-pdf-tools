@@ -175,10 +175,10 @@ All PDF processing is performed **100% client-side** using JavaScript. Your file
 
 ## Known Limitations
 
-- **Compress PDF** — Uses PDF re-serialization which strips unused objects. For heavy image-based compression, professional tools may yield better results.
-- **Word to PDF** — Extracts plain text from DOCX; complex formatting (tables, images, styles) is not preserved.
-- **Protect PDF** — Client-side encryption has limitations. For sensitive documents, use dedicated PDF software.
-- **PDF to Word** — Extracts text into a `.docx` file; complex layouts and images are not preserved.
+- **Compress PDF:**  Uses PDF re-serialization which strips unused objects. For heavy image-based compression, professional tools may yield better results.
+- **Word to PDF:**  Extracts plain text from DOCX; complex formatting (tables, images, styles) is not preserved.
+- **Protect PDF:**  Client-side encryption has limitations. For sensitive documents, use dedicated PDF software.
+- **PDF to Word:**  Extracts text into a `.docx` file; complex layouts and images are not preserved.
 
 ## Author
 
