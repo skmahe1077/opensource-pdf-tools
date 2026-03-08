@@ -1,6 +1,6 @@
 # OpenSource PDF Tools
 
-An all-in-one PDF toolkit that runs entirely in the browser. No server, no uploads — your files never leave your device.
+An all-in-one PDF toolkit that runs entirely in the browser. No server, no uploads - your files never leave your device.
 
 ![React](https://img.shields.io/badge/React-18-blue) ![Vite](https://img.shields.io/badge/Vite-5-purple) ![TailwindCSS](https://img.shields.io/badge/Tailwind-3-teal) ![License](https://img.shields.io/badge/License-MIT-green)
 
